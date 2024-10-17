@@ -1,2 +1,3 @@
 # mle_learning
-Notes and code for learning MLE
+
+Notes and code for MLE
